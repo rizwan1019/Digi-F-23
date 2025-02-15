@@ -1,0 +1,337 @@
+	nav.navbar {
+    background: #fff;
+    border-bottom: 1px solid #d0cccc;
+    padding: 5px;
+}
+  body{background: #e6e6e6;
+    font-family:"Open Sans", serif !important;
+}
+
+  
+button.bp3-button.register_btn {
+           background: #03ca9b;
+    color: rgb(255, 255, 255);
+    height: 44px;
+    width: 157px;
+    font-weight: 600;
+    font-size: 16px;
+   
+}
+.navbar-brand>img {
+    width: 118px;
+    }
+span.pp {
+    font-size: 11px;
+    margin-bottom: 6%;
+    display: inline-block;
+}
+.fo-fdfd-linkSS {
+      text-align: left;
+    margin-top: 4%;
+    color: #000;
+}
+
+.fo-fdfd-linkSS a {
+    font-size: 15px;
+}
+.form-group {
+    margin-bottom: 5%;
+}
+p.ac {
+    font-size: 16px;
+    margin: 3% 0%;
+    font-weight: 600;
+    color: #333;
+}
+form#form1 {width: 100%;
+    text-align: center;
+}
+ul.nav.navbar-nav.navbar-rightSS li a {
+       color: #020202;
+    font-size: 16px;
+    font-weight: 400;
+}
+.navbar-brand svg {
+    width: 118px;
+}
+.foSS {  font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rSS ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.rSS ul li a {
+       color: #000;
+    font-size: 12px;
+}
+
+.rSS ul li {
+    list-style: none;
+    padding: 1% 14px;
+}
+
+.rSS {  font-size: 12px;
+    text-align: right;
+}
+.error {
+    width: 44%;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    border: 1px solid #fff;
+    padding: 4%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+.form h1 {
+     font-size: 26px;
+    font-family: auto;
+    color: #003b2f!important;
+    text-align: left;
+    font-family:"Open Sans", sans-serif ;
+    font-weight: 700!important;
+    margin: 0px;
+}
+p.pSS {
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    font-family:"Open Sans", serif !important;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+.fSS {
+    font-size: 13px;
+    color: #716e6e;
+    font-family: sans-serif;
+}
+p.pSS a {
+    text-decoration: underline;
+    color: #716e6e;
+    font-family:"Open Sans", serif !important;
+    font-size: 16px;
+}
+.navbar-inverse {
+    background-color: #182026;
+    border-color: #182026;
+}
+.form {
+    width: 448px;
+    margin: 15vh auto 0;
+}
+.fSS a {
+    color: #716e6e;
+    border-bottom: 1px solid #333;
+    font-family:"Open Sans", serif !important;
+}
+.navbar {
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: transparent;
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px!important;
+    border: 1px solid transparent;
+}
+
+   
+form.form2 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    border: 1px solid #d0cccc;
+    background: #fff;
+    padding: 6%;
+    border-radius: 10px;
+    margin-top: 37%;
+    margin-bottom: 7%;
+}
+form.form3 {
+    display: block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    border: 1px solid #d0cccc;
+    background: #fff;
+    padding: 6%;
+    border-radius: 10px;
+    margin-top: 17%;
+}
+#form1
+{
+      display: block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    border: 1px solid #d0cccc;
+    background: #fff;
+    padding: 8% 7% 12%;
+    border-radius: 10px;
+    margin-top: 17%;
+}
+
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-top:5%;
+}
+input.inputchangesSS {
+      width: 100%;
+    height: 38px;
+    background: transparent;
+    border: 0!important;
+    border-radius: 0px;
+    color: #000;
+    font-size: 16px;
+    padding: 1% 2%;
+    font-size: 14px;
+    border: 1px solid #7a7575!important;
+    box-shadow: none!important;
+    border-radius: 10px;
+
+}
+label {
+    color: rgb(0 0 0);
+    display: block;
+    font-weight: 600;
+    margin-bottom: 6px;
+    text-align: left;
+    font-size: 15px;
+    font-family:"Open Sans", serif !important;
+}
+.navbar-toggle .icon-barSS {
+    display: block;
+    width: 22px ;
+    height: 2px;
+    border-radius: 1px;
+    background: #000;
+}
+form#form1 p {
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 4%;
+    font-family:"Open Sans", serif !important;
+}
+button.btn.btn-block.btn-primary {
+    margin: .6em 0 .8em;
+      width: 100%;
+    height: 40px;
+    background: transparent;
+    border: none;
+    background-color: #368727;
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffffff;
+    display: inline-block;
+    border-radius: 10px;
+}
+.fo-fdfd-linkSS a {
+    font-family:"Open Sans", serif !important;
+       color: #000;
+    text-decoration: underline;
+    font-size: 15px;
+}
+.fo-fdfd-linkSS a:hover {
+    color: #368727;
+}
+
+nav.navbar.navbar-inverse {
+    padding-top: 2%;
+}
+select.sel {
+    padding: 0% 10%;
+    background: #000;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    height: 44px;
+    width: 139px;
+}
+@media (min-width: 320px) and (max-width: 420px)
+   {
+    input.inputchangesSS {
+    width: 100%;
+    height: 50px;
+}
+   }
+
+@media(max-width:768px){
+    form#form1 {
+    width: 100%;
+}
+.form {
+    width: 100%;
+    margin: auto!important;
+}
+.rSS ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px;
+}
+.form {
+    padding: 6%!important;
+}
+.foSS {
+    font-size: 12px;
+    display: inline;}
+}
+.form2 {display: none;
+  width: 100%;
+    padding: 3% 1% 5%;
+}
+
+.form2 .ina input {
+    width: 100%;
+    padding: 2%;
+    border-radius: 5px;
+    border: 1px solid #333;
+    margin-bottom: 5%;
+}
+
+.form2 button {
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    border: none;
+    background-color: #368727;
+    font-weight: 900;
+    font-size: 16px;
+    color: #ffffff;
+    display: inline-block;
+    border-radius: 10px;
+}
+form.form3 {
+     width: 100%;
+     height: 360px
+}
+.form3{display: none;}
+.nav>li>a:focus, .nav>li>a:hover {
+       background-color: transparent !important;
+}
+.main-block-bg{
+    background-color:#f2f2f2;
+}
+@media (min-width: 768px) {
+    .navbar-nav>li>a {
+               padding-bottom: 0;
+    }
+}
+.img-control{
+    width: 120px;
+}
